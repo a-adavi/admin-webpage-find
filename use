@@ -1,1 +1,21 @@
 Please try the Kali Linux operating system or any Linux system (version)
+
+
+kali linux
+
+
+1- git clone https://github.com/mr18ali/admin-webpage-find.git
+
+
+2- cd admin-webpage-find
+
+
+3- python3 admin-webpage-find.py
+
+
+4- enter url like ==> google.com , github.com 
+
+
+
+
+good luck :)
