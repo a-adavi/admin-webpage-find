@@ -27,7 +27,7 @@ try:
 	
         target = input ("Enter target website ==>")
         patch = ['admin/','administrator/','login.php','administration/',
-                 'wp-admin.a',
+                 'wp-admin.a','shop/auth-loginform/',
                  'admin1/','admin2/','admin3/','admin4/','admin5/','moderator/',
                  'webadmin/','adminarea/','bb-admin/','adminLogin/','admin_area/',
         'panel-administracion/','instadmin/','memberadmin/','administratorlogin/',
